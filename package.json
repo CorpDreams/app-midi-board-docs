@@ -1,0 +1,18 @@
+{
+  "name": "app-midi-board-docs",
+  "version": "0.5.0",
+  "description": "The docs for MidiBoard",
+  "main": "index.js",
+  "scripts": {
+    "docs": "docute docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CorpDreams/app-midi-board-docs.git"
+  },
+  "author": "CorpDreams",
+  "contributors": [
+    "Eling"
+  ],
+  "license": "MIT"
+}

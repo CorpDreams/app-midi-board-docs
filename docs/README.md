@@ -198,3 +198,15 @@ Lemon.mid    简单MIDI编辑与续写
 - 感谢[MidiShow](https://www.midishow.com/)为MIDI爱好者提供了交流与分享的平台
 
 - 感谢[iconfont](https://www.iconfont.cn/)提供的开源图标库
+
+- 本项目同时使用了以下项目，在此一并表示感谢：
+
+    - [@netless/fastboard](https://github.com/netless-io/fastboard)
+
+    - [Vue.js](https://cn.vuejs.org/)
+
+    - [Vite](https://cn.vitejs.dev/)
+
+    - [Tone.js](https://tonejs.github.io/)
+
+    - [webaudio-tinysynth](https://g200kg.github.io/webaudio-tinysynth/)

@@ -43,6 +43,15 @@ MIDI Board是一个适用于声网 Netless互动白板的插件，为音乐人�
 
     ***推荐最大化插件窗口以获得最佳体验**
 
+## 在线试用
+
+点击[此处](http://midi.corpdreams.com:3000/)，或直接访问[http://midi.corpdreams.com:3000/](http://midi.corpdreams.com:3000/)可试用本插件
+
+- 首次打开因需加载SDK的原因会有较长时间的白屏，请耐心等待。如果长时间未显示可尝试刷新网页。
+
+- 因试用环境为公用，所编辑内容可能会被删除，如需使用自己的环境，可在URL中进行传参（必需参数：`VITE_APPID`, `VITE_ROOM_UUID` 和 `VITE_ROOM_TOKEN`）
+
+
 ## 快速入门
 
 *以下内容包含GIF及图片，为提高加载速度，推荐使用科学上网。*

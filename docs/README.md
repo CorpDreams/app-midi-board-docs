@@ -45,13 +45,13 @@ MIDI Board是一个适用于声网 Netless互动白板的插件，为音乐人�
 
 ## 在线试用
 
-点击[此处](http://midi.corpdreams.com:3000/)，或直接访问[`http://midi.corpdreams.com:3000`](http://midi.corpdreams.com:3000/)可试用本插件
+点击[此处](http://43.138.239.25:3000/)，或直接访问[`http://midi.corpdreams.com:3000`](http://43.138.239.25:3000/)可试用本插件
 
 - **首次打开因需加载SDK的原因会有较长时间的白屏，请耐心等待。**如果长时间未显示可尝试刷新网页。
 
 - 因试用环境为公用，所编辑内容可能会被删除，如需使用自己的环境，可在URL中进行传参（必需参数：`VITE_APPID`, `VITE_ROOM_UUID` 和 `VITE_ROOM_TOKEN`），如：
 ```
-http://midi.corpdreams.com:3000/?VITE_APPID=ss4WoMf_EeqfCXcv33LmiA%2FizfIC88inXYJKw&VITE_ROOM_UUID=c1063fe01d4311ed924cff6ad50661b2&VITE_ROOM_TOKEN=NETLESSROOM_YWs9VWtNUk92M1JIN2I2Z284dCZleHBpcmVBdD0xNjYzMjMzMjM1OTE2Jm5vbmNlPWMxMmE5MGMwLTFkNDMtMTFlZC1iZWMyLWNiNTUzMjEwMzFlYSZyb2xlPTEmc2lnPWU0MTVmMmZlM2Y0OWUzYTM0YmYyM2IyODIyNDYyOGJkYmQ0MDM2MjNkZDVjODMzNjhhNmY2MTI5MWYyYWY0OTMmdXVpZD1jMTA2M2ZlMDFkNDMxMWVkOTI0Y2ZmNmFkNTA2NjFiMg
+http://43.138.239.25:3000/?VITE_APPID=ss4WoMf_EeqfCXcv33LmiA%2FizfIC88inXYJKw&VITE_ROOM_UUID=c1063fe01d4311ed924cff6ad50661b2&VITE_ROOM_TOKEN=NETLESSROOM_YWs9VWtNUk92M1JIN2I2Z284dCZleHBpcmVBdD0xNjYzMjMzMjM1OTE2Jm5vbmNlPWMxMmE5MGMwLTFkNDMtMTFlZC1iZWMyLWNiNTUzMjEwMzFlYSZyb2xlPTEmc2lnPWU0MTVmMmZlM2Y0OWUzYTM0YmYyM2IyODIyNDYyOGJkYmQ0MDM2MjNkZDVjODMzNjhhNmY2MTI5MWYyYWY0OTMmdXVpZD1jMTA2M2ZlMDFkNDMxMWVkOTI0Y2ZmNmFkNTA2NjFiMg
 ```
 
 
